@@ -1,6 +1,6 @@
 # PetSquare.AI
 PetSquare is an AI-powered pet care platform focused on emotional comfort,
-online veterinary consultation, and behavior reactivity therapy.
+online veterinary consultation, and behavior reactivity therapy.AI-powered Digital Town Square for pet owners with guidance and service bookings
 
 ## Features
 - Online Vet Consultation
