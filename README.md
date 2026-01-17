@@ -7,3 +7,4 @@ online veterinary consultation, and behavior reactivity therapy.
 - Reactivity Therapy for pets
 - Thoughtful and calming UI/UX for emotional comfort
 - AI-driven pet assistance
+- Digital Town Sqaure for pet parents
